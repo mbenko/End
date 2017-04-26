@@ -1,11 +1,88 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDevice", "WebDevice\WebDevice.csproj", "{DAE4EC5A-8439-470F-AD4D-4D1A347ED69E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadMessages", "ReadMessages\ReadMessages.csproj", "{6B11C124-859A-4D22-8F2D-F7E154AF39B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabFiles", "LabFiles", "{B2AC06B2-2B8E-4170-AEA8-A583B989598F}"
+	ProjectSection(SolutionItems) = preProject
+		HOL 3.1\HOL 3.1.html = HOL 3.1\HOL 3.1.html
+		HOL 3.1\HOL 3.1.md = HOL 3.1\HOL 3.1.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Media", "Media", "{412D793F-52A9-420F-80FD-F980743FFE29}"
+	ProjectSection(SolutionItems) = preProject
+		HOL 3.1\media\image1.png = HOL 3.1\media\image1.png
+		HOL 3.1\media\image10.png = HOL 3.1\media\image10.png
+		HOL 3.1\media\image11.png = HOL 3.1\media\image11.png
+		HOL 3.1\media\image12.png = HOL 3.1\media\image12.png
+		HOL 3.1\media\image13.png = HOL 3.1\media\image13.png
+		HOL 3.1\media\image14.png = HOL 3.1\media\image14.png
+		HOL 3.1\media\image15.png = HOL 3.1\media\image15.png
+		HOL 3.1\media\image16.png = HOL 3.1\media\image16.png
+		HOL 3.1\media\image17.png = HOL 3.1\media\image17.png
+		HOL 3.1\media\image18.png = HOL 3.1\media\image18.png
+		HOL 3.1\media\image19.png = HOL 3.1\media\image19.png
+		HOL 3.1\media\image2.png = HOL 3.1\media\image2.png
+		HOL 3.1\media\image20.png = HOL 3.1\media\image20.png
+		HOL 3.1\media\image21.png = HOL 3.1\media\image21.png
+		HOL 3.1\media\image22.png = HOL 3.1\media\image22.png
+		HOL 3.1\media\image23.png = HOL 3.1\media\image23.png
+		HOL 3.1\media\image24.png = HOL 3.1\media\image24.png
+		HOL 3.1\media\image25.png = HOL 3.1\media\image25.png
+		HOL 3.1\media\image26.png = HOL 3.1\media\image26.png
+		HOL 3.1\media\image27.png = HOL 3.1\media\image27.png
+		HOL 3.1\media\image28.png = HOL 3.1\media\image28.png
+		HOL 3.1\media\image29.png = HOL 3.1\media\image29.png
+		HOL 3.1\media\image3.png = HOL 3.1\media\image3.png
+		HOL 3.1\media\image30.png = HOL 3.1\media\image30.png
+		HOL 3.1\media\image31.png = HOL 3.1\media\image31.png
+		HOL 3.1\media\image32.png = HOL 3.1\media\image32.png
+		HOL 3.1\media\image33.png = HOL 3.1\media\image33.png
+		HOL 3.1\media\image34.png = HOL 3.1\media\image34.png
+		HOL 3.1\media\image35.png = HOL 3.1\media\image35.png
+		HOL 3.1\media\image36.png = HOL 3.1\media\image36.png
+		HOL 3.1\media\image37.png = HOL 3.1\media\image37.png
+		HOL 3.1\media\image38.png = HOL 3.1\media\image38.png
+		HOL 3.1\media\image39.png = HOL 3.1\media\image39.png
+		HOL 3.1\media\image4.png = HOL 3.1\media\image4.png
+		HOL 3.1\media\image40.png = HOL 3.1\media\image40.png
+		HOL 3.1\media\image41.png = HOL 3.1\media\image41.png
+		HOL 3.1\media\image42.png = HOL 3.1\media\image42.png
+		HOL 3.1\media\image43.png = HOL 3.1\media\image43.png
+		HOL 3.1\media\image44.png = HOL 3.1\media\image44.png
+		HOL 3.1\media\image45.png = HOL 3.1\media\image45.png
+		HOL 3.1\media\image46.png = HOL 3.1\media\image46.png
+		HOL 3.1\media\image47.png = HOL 3.1\media\image47.png
+		HOL 3.1\media\image48.png = HOL 3.1\media\image48.png
+		HOL 3.1\media\image49.png = HOL 3.1\media\image49.png
+		HOL 3.1\media\image5.png = HOL 3.1\media\image5.png
+		HOL 3.1\media\image50.png = HOL 3.1\media\image50.png
+		HOL 3.1\media\image51.png = HOL 3.1\media\image51.png
+		HOL 3.1\media\image52.png = HOL 3.1\media\image52.png
+		HOL 3.1\media\image53.png = HOL 3.1\media\image53.png
+		HOL 3.1\media\image54.png = HOL 3.1\media\image54.png
+		HOL 3.1\media\image55.png = HOL 3.1\media\image55.png
+		HOL 3.1\media\image56.png = HOL 3.1\media\image56.png
+		HOL 3.1\media\image57.png = HOL 3.1\media\image57.png
+		HOL 3.1\media\image58.png = HOL 3.1\media\image58.png
+		HOL 3.1\media\image59.png = HOL 3.1\media\image59.png
+		HOL 3.1\media\image6.png = HOL 3.1\media\image6.png
+		HOL 3.1\media\image60.png = HOL 3.1\media\image60.png
+		HOL 3.1\media\image61.png = HOL 3.1\media\image61.png
+		HOL 3.1\media\image62.png = HOL 3.1\media\image62.png
+		HOL 3.1\media\image63.png = HOL 3.1\media\image63.png
+		HOL 3.1\media\image64.png = HOL 3.1\media\image64.png
+		HOL 3.1\media\image65.png = HOL 3.1\media\image65.png
+		HOL 3.1\media\image66.png = HOL 3.1\media\image66.png
+		HOL 3.1\media\image67.png = HOL 3.1\media\image67.png
+		HOL 3.1\media\image7.png = HOL 3.1\media\image7.png
+		HOL 3.1\media\image8.png = HOL 3.1\media\image8.png
+		HOL 3.1\media\image9.png = HOL 3.1\media\image9.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +101,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{412D793F-52A9-420F-80FD-F980743FFE29} = {B2AC06B2-2B8E-4170-AEA8-A583B989598F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;
